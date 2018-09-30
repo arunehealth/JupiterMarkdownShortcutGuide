@@ -4,3 +4,5 @@ lsi: false
 highlighter: rouge
 
 exclude: ["README.md", "node_modules"]
+
+theme: jekyll-theme-cayman
